@@ -1,9 +1,24 @@
 Hi! Welcome to Spice Virtual Machines(SpiceVM) 
-If you want to make a VM yourself ask owner on discord on our server https://discord.gg/A3rbMehvEB
+If you want to make a VM yourself ask owner on discord on our server 
+Link here: https://discord.gg/A3rbMehvEB
 
 Rules of SpiceVM:
 1. Don't run ransomwares because owner have windows xp on host and don't want to kill his host's
 2. Don't run viruses spreading on network because owner have windows xp on host and don't want to kill his host's
 3. As anyone can do on these VMs, it may contain NTFS
 4. Everything will be logged and you will be banned if neccesary
+
+FAQ about SpiceVM:
+Q: Why VM's are slow, i can't do anything?
+A: VM's are slow because we are hosting on Android phone with 4 gb of ram and 64 disk space.
+We are using TCG Acceleration to make it faster :)
+Q: VM is trashed and don't boot up, what i can do?
+A: Ask owner to load snapshot. If no snapshot, wait until he configure it again(only if hosting on limbo pc emulator)
+Q: Why there is only 1 VM at time and why it's Windows, not linux mac, android etc.?
+A: We can't host like 2 VM's because owner don't have too much space to keep like win7 and winxp hdd 
+and owner don't know how to boot up 2 qemu on termux :(
+We are working on make SpiceVM Public Port VNC to connect on website or in 2.0 version Spice Client, but now only anydesk
+and emulation is slow to emulate linux like ubuntu 16.04(don't work 4.0 it'z too slow) or mac os, Android only in VMOS but Qemu or VMOS, 
+Owner don't have a lot of space to host them both
+ 
 That's all, have fun on SpiceVM! Links of VM's will be on our discord
