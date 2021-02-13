@@ -1,4 +1,4 @@
-echo "This will install Qemu-system-x86_64-headless and let you host your own VM's into SpiceVM and SanVM!"
+echo "This will install Qemu-system-x86_64-headless and let you host your own VM's into SpiceVM and SandVM!"
 pkg update -y
 echo Now installer will install qemu!
 pkg install qemu-system-x86_64-headless -y
