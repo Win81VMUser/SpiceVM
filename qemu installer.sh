@@ -1,7 +1,10 @@
-echo "This will install Qemu-system-x86_64-headless and let you host your own VM's into SpiceVM and SandVM!"
+echo "This will install Qemu-system-x86_64-headless on your android phone!"
+echo "Recomended requiments: 3gb ram, 4 gb left on storage."
+clear
 pkg update -y
 clear
 echo Now installer will install qemu!
+clear
 pkg install qemu-system-x86_64-headless -y
 clear
 echo "Everything is done! Let's test it! Type qemu-system-x86_64 -monitor stdio -boot n -accel tcg -m 128"
