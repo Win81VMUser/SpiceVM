@@ -19,12 +19,11 @@ SpiceVM!
 THIS IS IF OWNER'S PC IS TURNED OFF:VM's are slow because we are hosting on Android phone with 4 gb of ram and 64 disk space.
 We are using TCG Acceleration to make it faster :)(if owner's pc is turned off)
 Q: VM is trashed and don't boot up, what i can do?
-A: Ask owner to load snapshot. If no snapshot(Vote-For-Reset is for hard restart vm system_reset)
+A: Ask owner to load snapshot. (Vote-For-Reset is for hard restart vm: system_reset)
 Q: Why there is only 1 VM at time and why it's Windows, not linux mac, android etc.?
-A: We can't host like 2 VMs because owner don't have too much space to keep like win7 and winxp hdd 
-and owner don't know how to boot up 2 qemu on termux :(
-We are working on make SpiceVM Public Port VNC to connect on website or in 2.0 version Spice Client, but now only anydesk
-and emulation is too slow to emulate linux like ubuntu 16.04(don't work ubuntu 4.0 it's too slow) or mac os, Android only in VMOS but Qemu or VMOS, 
-Owner don't have a lot of space to host them both
+A: We can't host like 2 VMs cuz we dont have a lot of ram on VM, only 2 gb and 1 cpu. 
+There will be more VMs but with low config(like max 512 mb of ram for 2 VMs, 256 for 4 VMs and more)
+We will add some linux and android but now MicroXP and KolibriOS :)
  
+
 That's all, have fun on SpiceVM! Links of VMs will be on our discord
